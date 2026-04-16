@@ -250,6 +250,6 @@ st.markdown("""
 st.markdown("---")
 st.markdown("""
 <p style="text-align:center; color:#bbb; font-size:0.82rem;">
-    Desarrollado con ❤️ por María José Rúa · Streamlit · 2025
+    Desarrollado con ❤️ por María José Rúa · Streamlit · 2026
 </p>
 """, unsafe_allow_html=True)
