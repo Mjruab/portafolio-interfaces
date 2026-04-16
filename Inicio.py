@@ -193,6 +193,20 @@ apps = [
         "tags": ["OCR", "Audio", "Traducción"],
         "link": "https://ocr-audio-mjruab.streamlit.app/"
     },
+    {
+        "emoji": "🖼️",
+        "nombre": "Análisis de Imagen",
+        "desc": "Interpreta imágenes y obtén descripciones inteligentes en segundos.",
+        "tags": ["Visión", "IA", "Imágenes"],
+        "link": "https://visionapp-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "💬",
+        "nombre": "Chat PDF",
+        "desc": "Chatbot para la interacción con documentos en PDF.",
+        "tags": ["PDF", "Chatbot", "IA"],
+        "link": "https://chatpdf-mjruab.streamlit.app/"
+    },
 ]
 
 # ── Grid de cards ──────────────────────────────────────────────────
