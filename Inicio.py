@@ -207,6 +207,55 @@ apps = [
         "tags": ["PDF", "Chatbot", "IA"],
         "link": "https://chatpdf-mjruab.streamlit.app/"
     },
+    {
+        "emoji": "🎨",
+        "nombre": "Tablero de Dibujo",
+        "desc": "Lienzo interactivo para dibujar libremente con distintos colores y tamaños de pincel.",
+        "tags": ["Canvas", "Dibujo", "Interactivo"],
+        "link": "https://tableroparadibujo-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "✏️",
+        "nombre": "Reconocimiento de Dibujos",
+        "desc": "Dibuja y deja que la IA identifique qué figura o elemento has trazado en tiempo real.",
+        "tags": ["Visión", "IA", "Dibujo"],
+        "link": "https://drawrecog-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "🖊️",
+        "nombre": "Reconocimiento de Escritura",
+        "desc": "Reconoce texto manuscrito a partir de trazos realizados directamente en la interfaz.",
+        "tags": ["Handwriting", "OCR", "IA"],
+        "link": "https://handw-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "🧠",
+        "nombre": "Insight Sketch",
+        "desc": "Dibuja cualquier cosa y la IA interpreta tu trazo para contarte datos curiosos y enseñarte sobre lo que has dibujado.",
+        "tags": ["Visión", "IA", "Dibujo"],
+        "link": "https://realcontextimplementation-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "📥",
+        "nombre": "Receptor MQTT",
+        "desc": "Recibe y muestra en tiempo real los mensajes publicados en un topic MQTT desde cualquier dispositivo.",
+        "tags": ["MQTT", "IoT", "Tiempo real"],
+        "link": "https://recepmqtt-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "📤",
+        "nombre": "Emisor MQTT",
+        "desc": "Publica mensajes a un broker MQTT para controlar dispositivos y sistemas conectados.",
+        "tags": ["MQTT", "IoT", "Publicación"],
+        "link": "https://sendcmqtt-mjruab.streamlit.app/"
+    },
+    {
+        "emoji": "🎙️",
+        "nombre": "Control por Voz MQTT",
+        "desc": "Reconoce comandos de voz y los publica automáticamente en un broker MQTT para control de dispositivos.",
+        "tags": ["Voz", "MQTT", "IoT"],
+        "link": "https://voicecontrol-mjruab.streamlit.app/"
+    },
 ]
 
 # ── Grid de cards ──────────────────────────────────────────────────
